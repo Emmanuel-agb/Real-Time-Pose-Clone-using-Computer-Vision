@@ -2,7 +2,7 @@
 
 A real-time Computer Vision application that generates a "Digital Twin" with a neon aesthetic. This project utilizes **MediaPipe** for body tracking and **OpenCV** for custom rendering, creating a smoother, production-ready visual experience than standard pose estimation demos.
 
-![Demo](demo_screenshot.png)
+![Demo](pose clone.png)
 
 ## ✨ Key Features
 
